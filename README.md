@@ -1,14 +1,14 @@
 # Visualización 3D de una Superficie con su Plano Tangente y Recta Normal
 
-Este repositorio contiene un script en Python que visualiza en 3D la superficie de la función \( f(x, y) = x^2 + y^2 \), junto con su plano tangente y la recta normal en el punto (1, 1, 2).
+Este repositorio contiene un script en Python que visualiza en 3D la superficie de la función $\( f(x, y) = x^2 + y^2 \)$, junto con su plano tangente y la recta normal en el punto (1, 1, 2).
 
 ## 📌 Descripción
 
 La función considerada es una superficie parabólica:
 
-\[
+$\[
 f(x, y) = x^2 + y^2
-\]
+\]]$
 
 El script genera:
 - La **superficie** de la función.
