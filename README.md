@@ -6,7 +6,7 @@ Este repositorio contiene un script en Python que visualiza en 3D la superficie 
 
 La función considerada es una superficie parabólica:
 
-$\f(x, y) = x^2 + y^2\$
+$\ f(x, y) = x^2 + y^2\$
 
 El script genera:
 - La **superficie** de la función.
